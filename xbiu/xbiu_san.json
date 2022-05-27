@@ -342,5 +342,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/xbiu_san.txt"
+  "spider": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/custom_spider.jar"
 }
