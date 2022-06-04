@@ -13,7 +13,7 @@
 {"key":"csp_biubiu_骚火电影","name":"⭐骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/骚火电影.json"},
 {"key":"csp_biubiu_555资源","name":"⭐五五资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/555资源.json"},
 {"key":"csp_appysv2_9e国语","name": "✨九亿国语","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
-{
+    {
       "key": "csp_xpath_mboy",
       "name": "MBO影视(XP)",
       "type": 3,
@@ -21,7 +21,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/mbomovice.json"
+      "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/mbomovice.json"
     },
     {
       "key": "csp_xpath_zjdr",
@@ -31,7 +31,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/vipmv.json"
+      "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/vipmv.json"
     },
     {
       "key": "csp_xpath_dxdx",
@@ -41,7 +41,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/dixidixi.json"
+      "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/dixidixi.json"
     },
     {
       "key": "csp_xpath_zx",
@@ -51,7 +51,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/zxzj.json"
+      "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/zxzj.json"
     },
     {
       "key": "csp_xpath_zmdy",
@@ -61,7 +61,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/zzzlike.json"
+      "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/zzzlike.json"
     },
     {
       "key": "csp_xpath_lmys",
@@ -71,7 +71,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/qdytv.json"
+      "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/qdytv.json"
     },
     {
       "key": "csp_xpath_1080p",
@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/1080.json"
+      "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/1080.json"
     },
     {
       "key": "csp_xpath_ikan",
@@ -91,7 +91,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/ikan.json"
+      "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/ikan.json"
+    },
+    {
+      "key": "csp_xpath_miao",
+      "name": "喵喵(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cattv.coding.net/p/catvod/d/xpath/git/raw/master/miaomiao.json"
     },
 {"key":"csp_aytvip","name": "💨爱优腾","type": 1,"api": "https://gfzycj.hnmj.vip/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "爱优腾78","name": "💨7788资源","type": 0,"api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
