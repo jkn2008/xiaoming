@@ -13,7 +13,6 @@
 {"key":"csp_biubiu_骚火电影","name":"⭐骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/骚火电影.json"},
 {"key":"csp_biubiu_555资源","name":"⭐五五资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/555资源.json"},
 {"key":"csp_appysv2_9e国语","name": "✨九亿国语","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
-{"key":"csp_biubiu_虎牙资源","name":"⭐虎牙资源","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/huya.json"},
     {
       "key": "csp_xpath_zjdr",
       "name": "✨追剧达人",
