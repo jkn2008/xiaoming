@@ -12,6 +12,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_Xiaoh",
+      "name": "7",
+      "type": 3,
+      "api": "csp_Xiaoh",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
       "key": "LiteApple",
       "name": "小苹果🐞",
       "type": 3,
@@ -279,15 +288,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "push_Ali",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    }
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
   ],
   "lives": [
     {
