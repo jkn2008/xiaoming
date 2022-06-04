@@ -436,8 +436,9 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-//"spider": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/custom_spider.jar"
-"spider": "https://notabug.org/qaz/xiaoming/raw/master/mujin/m0601_sj_pg.txt"
+//"spider": "https://notabug.org/qaz/xiaoming/raw/master/mujin/m0601_sj_pg.txt"
+"spider": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/custom_spider.jar"
+
 
   
 }
