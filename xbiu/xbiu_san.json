@@ -14,16 +14,6 @@
       "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/vipmv.json"
     },
     {
-      "key": "csp_xpath_dxdx",
-      "name": "滴嘻滴嘻(XP)",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/dixidixi.json"
-    },
-    {
       "key": "csp_xpath_zx",
       "name": "在线之家(XP)",
       "type": 3,
@@ -37,7 +27,7 @@
       "key": "csp_xpath_zmdy",
       "name": "周末电影(XP)",
       "type": 3,
-      "api": "csp_XPathFilter",
+      "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -53,42 +43,12 @@
       "filterable": 1,
       "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/qdytv.json"
     },
-    {
-      "key": "csp_xpath_1080p",
-      "name": "1080电影(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/1080.json"
-    },
-    {
-      "key": "csp_xpath_ikan",
-      "name": "爱看(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/ikan.json"
-    },
-    {
-      "key": "csp_xpath_miao",
-      "name": "喵喵(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://notabug.org/qaz/xiaoming/raw/master/xbiu/miaomiao.json"
-    },
 //{"key":"csp_biubiu_ssdy","name":"奈菲影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/奈菲影院.json"},
 //{"key":"csp_biubiu_qyyy","name":"奈落影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/奈落影院.json"},
 //{"key":"csp_biubiu_lezhutv","name":"乐猪影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/乐猪影视2.json"},
 //{"key":"csp_biubiu_天空资源","name":"⭐天空资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/天空资源.json"},
-//{"key":"csp_biubiu_饭团影院","name":"⭐饭团影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/饭团影院.json"},
-//{"key":"csp_biubiu_LIBVIO","name":"⭐LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/LIBVIO.json"},
+{"key":"csp_biubiu_饭团影院","name":"⭐饭团影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/饭团影院.json"},
+{"key":"csp_biubiu_LIBVIO","name":"⭐LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/LIBVIO.json"},
 {"key":"csp_biubiu_骚火电影","name":"⭐骚火电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/骚火电影.json"},
 {"key":"csp_biubiu_555资源","name":"⭐五五资源","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://notabug.org/qaz/xiaoming/raw/master/xbiu/555资源.json"},
 {"key":"csp_appysv2_9e国语","name": "✨九亿国语","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"},
